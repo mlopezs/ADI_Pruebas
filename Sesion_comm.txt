@@ -1,0 +1,1 @@
+1. Descargar el server y ngrok de la zona correspondiente del campus virtual
